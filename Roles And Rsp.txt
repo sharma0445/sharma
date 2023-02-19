@@ -1,0 +1,4 @@
+Good knowledge on Kubernetes architecture, cluster management and cluster networking.
+Need to have idea on deployments, services, PVs, Ingress, network policies, plugins etc.
+Need to have good troubleshooting skills to deal with cluster issues.
+(Optional) Preferring CKA certified professionals.
